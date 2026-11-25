@@ -1,0 +1,39 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T07:44:32.188Z",
+  "slug": "mankind-barbers-christchurch",
+  "name": "Mankind Barbers",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Hair salons & barbers",
+    "niche": "hair salons & barbers",
+    "group": "Beauty & wellness"
+  },
+  "contact": {
+    "phone": "+6433899517",
+    "email": "hello@mankindbarbers.co.nz",
+    "address": "3 Garlands Rd, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/590532761006305"
+  },
+  "about": {},
+  "before": {
+    "score": 85,
+    "assessedAt": "2026-11-11T08:04:37.533Z",
+    "issues": [
+      {
+        "id": "no-website",
+        "title": "No website found",
+        "evidence": "No website is listed for this business in the sources searched (verify manually before outreach)."
+      }
+    ]
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/mankind-barbers/",
+    "repoUrl": "https://github.com/tova-studio/mankind-barbers",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T07:44:32.188Z"
+  }
+}
